@@ -1,0 +1,8 @@
+As Rotas deixei como padrão mesmo no route/api
+
+Exe: localhost:8000/api/grupo
+ 
+ Post usando o _method para Put/patch[Id] = Atualização
+ Post = Inserir
+ Get[id] = Pegar um id
+ Get = All pega todos
